@@ -2,7 +2,7 @@
 
 ## Аналіз продажів з різних каналів: сайти, платформи, країни
 
-![Dashboard](DataAnalyst_task_Koval/dashbord png.png)
+![Dashboard](dashbord png.png)
 
 ### Структура проєкту
 - **`DataAnalyst_Task_Koval`**: файл з аналізом даних на Python. В кінці включено аналіз готового дашборду в Tableau та висновки.
